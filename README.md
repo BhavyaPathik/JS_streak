@@ -1,3 +1,3 @@
 # 30 day challenge
 
-Learn something new and commit it for proof, notes, and motivation.
+Learn something new and commit it for proof, notes, and motivation for future.
