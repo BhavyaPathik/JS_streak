@@ -1,3 +1,3 @@
 # 30 day learning challenge
 
-Learn something new and commit it for proof, notes, and motivation for future.
+Learn something new and commit it for proof of work, notes, and motivation for future.
