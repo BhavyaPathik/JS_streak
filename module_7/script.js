@@ -14,4 +14,4 @@ button.addEventListener("click", function(){
     }
 });
 
-//this way the javascript can interact with the html 
+//this way the javascript can interact with the html

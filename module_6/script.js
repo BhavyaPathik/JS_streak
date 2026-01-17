@@ -1,7 +1,7 @@
 //object is grouping related data together for example grouping of a persons data, like 
 
 const data = {
-    name: "Gourdan",
+    name: "Gourdan", 
     age: 33,
     ISadult: true
 }
