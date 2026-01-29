@@ -12,7 +12,7 @@ function render() {
     div.textContent = emp;
 
     const delBtn = document.createElement("button");
-    delBtn.textContent = "❌";
+    delBtn.textContent = "Remove";
 
     delBtn.addEventListener("click", () => {
       employees.splice(index, 1);
